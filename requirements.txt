@@ -1,4 +1,9 @@
+matplotlib
+ipykernel
 numpy
 pandas
 plotly
 autots
+tensorflow
+jinja2
+xgboost
