@@ -13,4 +13,4 @@ Para la realización de este proyecto, se han usado los datos de 5 empresas Big 
 
 Estos datasets han sido extraidos de Yahoo Finance. La presentación está disponible en formato PDF y PPTX en la carpeta slides. Los experimentos, visualizaciones, explicaciones y resultados se encuentran documentados en el notebook "stock_precitor.ipynb"
 
-¡Gracias!
+Este proyecto ha sido realizado por Carlos Núñez Arenas y José Antonio Zamudio Amaya. ¡Gracias!
