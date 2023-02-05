@@ -11,6 +11,6 @@ Para la realización de este proyecto, se han usado los datos de 5 empresas Big 
 - Meta (META)
 - Microsoft (MSFT)
 
-Estos datasets han sido extraidos de Yahoo Finance. La presentación está disponible en formato PDF y PPTX en la carpeta slides. Los experimentos, visualizaciones, explicaciones y resultados se encuentran documentados en el notebook "stock_precitor.ipynb"
+Estos datasets han sido extraidos de Yahoo Finance. La memoria del proyecto está en la carpeta /docs. La presentación está disponible en formato PDF y PPTX en la carpeta /docs/slides. Los experimentos, visualizaciones, explicaciones y resultados se encuentran documentados en el notebook "stock_precitor.ipynb"
 
 Este proyecto ha sido realizado por Carlos Núñez Arenas y José Antonio Zamudio Amaya. ¡Gracias!
